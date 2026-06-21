@@ -1,0 +1,5 @@
+model,acc_mean,acc_std,f1_mean,f1_std
+HGB,95.5,1.9,88.4,1.9
+RandomForest,94.5,2.5,85.4,2.2
+LojistikReg,80.7,7.9,77.0,3.2
+MLP (sinir agi),92.7,2.8,84.1,2.6

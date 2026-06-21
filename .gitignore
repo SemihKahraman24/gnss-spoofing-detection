@@ -1,0 +1,24 @@
+# Generated datasets (large files — run 1c_realistic_pipeline.py to regenerate)
+data/dataset_realistic_train.csv
+data/dataset_realistic_test.csv
+data/dataset_real_train.csv
+data/dataset_real_test.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / tools
+.claude/
+.codegraph/
+.vscode/
+*.local.json
+
+# Paper previews and temp outputs
+
+# OS
+.DS_Store
+Thumbs.db
+

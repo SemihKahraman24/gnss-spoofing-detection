@@ -1,0 +1,5 @@
+strateji,heldout_acc,heldout_macroF1
+Hicbiri (ham),96.8,87.2
+class_weight=balanced,96.8,88.2
+RandomOverSampler,96.8,88.4
+SMOTE (k=5),96.2,86.7

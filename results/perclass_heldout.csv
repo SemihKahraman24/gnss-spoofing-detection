@@ -1,0 +1,5 @@
+class,precision,recall,f1,support
+Normal,97.1,99.3,98.2,6581
+Yavas Kayma,76.3,42.5,54.6,341
+Ani Atlama,100.0,100.0,100.0,32
+Tekrar Oynat,100.0,100.0,100.0,551

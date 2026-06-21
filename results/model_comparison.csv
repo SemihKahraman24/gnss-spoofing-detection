@@ -1,0 +1,6 @@
+model,heldout_acc,heldout_macroF1,ext_acc,ext_macroF1
+HGB,96.8,88.2,94.2,88.5
+RandomForest,96.8,87.4,93.9,86.0
+LojistikReg,73.1,73.1,79.6,79.2
+MLP (sinir agi),93.7,78.9,93.8,87.1
+BiLSTM (derin ogrenme),91.2,77.5,92.0,84.3

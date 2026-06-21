@@ -1,0 +1,16 @@
+feature,importance
+gps_jump_min,0.2736
+pos_diff_2s_min,0.1053
+pos_diff_2s_maks,0.0235
+gps_jump_std,0.0201
+gps_speed_diff_abs_ort,0.0158
+pos_diff_2s_ort,0.0109
+heading_diff_mean_maks,0.0099
+raw_jump_max_std,0.0096
+acc_diff_e_ort,0.0086
+ax_std,0.0085
+gy_std,0.0075
+gy_maks,0.0072
+acc_diff_std_maks,0.0058
+gps_jump_maks,0.0054
+acc_mag_diff_ort,0.0053

@@ -1,0 +1,10 @@
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.4
+scipy>=1.11
+matplotlib>=3.7
+imbalanced-learn>=0.11
+python-docx>=1.1
+Pillow>=10.0
+# BiLSTM comparison (optional, GPU recommended):
+# torch>=2.0
